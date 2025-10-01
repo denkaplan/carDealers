@@ -1,2 +1,2 @@
 # carDealers
-CarDealers MMVM+C UIKit Project
+CarDealers MVVM+C UIKit Project

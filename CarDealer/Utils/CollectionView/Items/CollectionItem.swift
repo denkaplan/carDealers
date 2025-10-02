@@ -52,6 +52,6 @@ extension CollectionItem {
     }
 
     var reuseIdentifier: String {
-        kind.rawValue + "." + String(reflecting: self)
+        kind.rawValue + "." + String(describing: Self.self)
     }
 }
